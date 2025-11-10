@@ -100,7 +100,7 @@
 
 ---
 
-###try to combine dj and music elements to a future sci fi theme
+### try to combine dj and music elements to a future sci fi theme
 
 #### 🎧 משחק 1 – Frequency Wars: DJ Battle for the Galaxy  
 **ז'אנר:** אסטרטגיה בזמן אמת / ריתם  
